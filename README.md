@@ -21,13 +21,13 @@ Requisitos Previos:
 > git clone https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
 
 2. Acceder a la carpeta del proyecto:
-> cd nombre-del-proyecto
+> cd SistemaRegistroEsrtudiante
 
 3. Compilar el código fuente:
-> javac NombreDelArchivo.java
+> javac SistemaRegistroEsrtudiante.java
 
 4. Ejecutar el programa:
-> java NombreDelArchivo
+> java SistemaRegistroEsrtudiante
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 (Añadir imágenes aquí con ejemplos de ejecución del programa.)
