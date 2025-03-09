@@ -18,21 +18,20 @@ Requisitos Previos:
 
 ### Pasos para Compilar y Ejecutar:
 1. Clonar el repositorio desde GitHub:
-git clone [ENLACE_DEL_REPOSITORIO]
+> git clone https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
 
 2. Acceder a la carpeta del proyecto:
-cd nombre-del-proyecto
+> cd nombre-del-proyecto
 
 3. Compilar el código fuente:
-javac NombreDelArchivo.java
+> javac NombreDelArchivo.java
 
 4. Ejecutar el programa:
-java NombreDelArchivo
+> java NombreDelArchivo
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 (Añadir imágenes aquí con ejemplos de ejecución del programa.)
 
 ### Enlace del Repositorio en GitHub
-
-Enlace al repositorio
+https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
 
