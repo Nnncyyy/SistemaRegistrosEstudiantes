@@ -1,13 +1,6 @@
 import java.util.Scanner;
 import clases.Estudiantes;
 
-/*class Estudiante{
-    String nombre;
-    int edad;
-    String matricula;
-    String carrera;
-}*/
-
 public class SistemaRegistroEsrtudiante{
 
     public static void main(String[] args) {
