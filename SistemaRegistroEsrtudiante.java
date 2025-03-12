@@ -91,17 +91,12 @@ public class SistemaRegistroEsrtudiante{
                 break;
             }
         }
-
         if (!encontrado) {
-
             System.out.println("Estudiante no encontrado.");
-
         }
-
         break;
 
     case 4:
-
         System.out.print("Ingrese la matrícula del estudiante a eliminar:");
         String matriculaEliminar = scanner.nextLine();
         boolean eliminado = false;
