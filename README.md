@@ -31,7 +31,7 @@ Requisitos Previos:
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 
-Caso de uso 1: Registrar estudiante <br>
+#### Caso de uso 1: Registrar estudiante <br>
 Objetivo: Registrar un nuevo estudiante en el sistema.
 
 Flujo de acciones:
@@ -42,7 +42,7 @@ Flujo de acciones:
 
 <br><img src="./capturas/Imagen1.png" alt="ima1" width="300" /><br>
 
-Caso de uso 2: Mostrar estudiantes <br>
+#### Caso de uso 2: Mostrar estudiantes <br>
 Objetivo: Visualizar la lista completa de estudiantes registrados.
 
 Flujo de acciones:
@@ -50,7 +50,7 @@ Flujo de acciones:
 2. El sistema muestra la lista de estudiantes con sus respectivos datos.
 
 
-Caso de uso 3: Buscar estudiante por matrícula <br>
+#### Caso de uso 3: Buscar estudiante por matrícula <br>
 Objetivo: Encontrar un estudiante específico utilizando su matrícula.
 
 Flujo de acciones:
@@ -60,7 +60,7 @@ Flujo de acciones:
 
 <br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
 
-Caso de uso 4: Eliminar estudiante <br>
+#### Caso de uso 4: Eliminar estudiante <br>
 Objetivo: Eliminar un estudiante del sistema.
 
 Flujo de acciones:
@@ -71,7 +71,7 @@ Flujo de acciones:
 
 <br><img src="./capturas/Imagen3.png" alt="ima3" width="300" /><br>
 
-Caso de uso 5: Salir del sistema <br>
+#### Caso de uso 5: Salir del sistema <br>
 Objetivo: Finalizar el uso del sistema.
 
 Flujo de acciones:
