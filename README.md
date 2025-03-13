@@ -43,12 +43,20 @@ Flujo de acciones:
 <br><img src="./capturas/Imagen1.png" alt="ima1" width="300" /><br>
 
 Caso de uso 2: Mostrar estudiantes
-Actor: Usuario
 Objetivo: Visualizar la lista completa de estudiantes registrados.
 
 Flujo de acciones:
 1. El usuario selecciona la opción 2 (Mostrar estudiantes).
 2. El sistema muestra la lista de estudiantes con sus respectivos datos.
+
+
+Caso de uso 3: Buscar estudiante por matrícula
+Objetivo: Encontrar un estudiante específico utilizando su matrícula.
+
+Flujo de acciones:
+1. El usuario selecciona la opción 3 (Buscar estudiante por matrícula).
+2. Ingresa la matrícula del estudiante que desea buscar (2019030001).
+3. El sistema muestra la información correspondiente al estudiante Darwin.
 
 <br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
 dd
