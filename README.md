@@ -31,6 +31,14 @@ Requisitos Previos:
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 
+Caso de uso 1: Registrar estudiante
+Objetivo: Registrar un nuevo estudiante en el sistema.
+
+Flujo de acciones:
+1. El usuario selecciona la opción 1 (Registrar estudiante).
+2. Ingresa los datos del estudiante.
+3. El sistema confirma el registro exitoso.
+4. Este proceso se repite para dos estudiantes adicionales.
 <br><img src="./capturas/Imagen1.png" alt="ima1" width="300" /><br>
 gg
 <br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
