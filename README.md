@@ -60,7 +60,7 @@ Flujo de acciones:
 
 <br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
 
-Caso de uso 4: Eliminar estudiante
+Caso de uso 4: Eliminar estudiante <br>
 Objetivo: Eliminar un estudiante del sistema.
 
 Flujo de acciones:
@@ -71,7 +71,7 @@ Flujo de acciones:
 
 <br><img src="./capturas/Imagen3.png" alt="ima3" width="300" /><br>
 
-Caso de uso 5: Salir del sistema
+Caso de uso 5: Salir del sistema <br>
 Objetivo: Finalizar el uso del sistema.
 
 Flujo de acciones:
