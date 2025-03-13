@@ -31,7 +31,7 @@ Requisitos Previos:
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 
-Caso de uso 1: Registrar estudiante
+Caso de uso 1: Registrar estudiante <br>
 Objetivo: Registrar un nuevo estudiante en el sistema.
 
 Flujo de acciones:
@@ -42,7 +42,7 @@ Flujo de acciones:
 
 <br><img src="./capturas/Imagen1.png" alt="ima1" width="300" /><br>
 
-Caso de uso 2: Mostrar estudiantes
+Caso de uso 2: Mostrar estudiantes <br>
 Objetivo: Visualizar la lista completa de estudiantes registrados.
 
 Flujo de acciones:
@@ -50,7 +50,7 @@ Flujo de acciones:
 2. El sistema muestra la lista de estudiantes con sus respectivos datos.
 
 
-Caso de uso 3: Buscar estudiante por matrícula
+Caso de uso 3: Buscar estudiante por matrícula <br>
 Objetivo: Encontrar un estudiante específico utilizando su matrícula.
 
 Flujo de acciones:
@@ -59,8 +59,24 @@ Flujo de acciones:
 3. El sistema muestra la información correspondiente al estudiante Darwin.
 
 <br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
-dd
+
+Caso de uso 4: Eliminar estudiante
+Objetivo: Eliminar un estudiante del sistema.
+
+Flujo de acciones:
+1. El usuario selecciona la opción 4 (Eliminar estudiante).
+2. Ingresa la matrícula del estudiante que desea eliminar (2020031475).
+3. El sistema confirma que el estudiante fue eliminado con éxito.
+4. Posteriormente, el usuario vuelve a mostrar la lista de estudiantes para verificar que el estudiante eliminado ya no aparece.
+
 <br><img src="./capturas/Imagen3.png" alt="ima3" width="300" /><br>
+
+Caso de uso 5: Salir del sistema
+Objetivo: Finalizar el uso del sistema.
+
+Flujo de acciones:
+1. El usuario selecciona la opción 0 (Salir).
+2. El sistema finaliza con el mensaje: "Saliendo del sistema..."
 
 ### Enlace del Repositorio en GitHub
 https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
