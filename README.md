@@ -31,11 +31,11 @@ Requisitos Previos:
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 
-<br><img src="./capturas/Imagen1.png" alt="Agregar un 2(1) y 3(2)" width="300" /><br>
-<br>
-<img scr="capturas/Imagen2.png"/>
-<br>
-<img scr="capturas/Imagen1.png"/>
+<br><img src="./capturas/Imagen1.png" alt="ima1" width="300" /><br>
+gg
+<br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
+dd
+<br><img src="./capturas/Imagen3.png" alt="ima3" width="300" /><br>
 
 ### Enlace del Repositorio en GitHub
 https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
