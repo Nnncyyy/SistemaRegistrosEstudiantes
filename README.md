@@ -39,8 +39,17 @@ Flujo de acciones:
 2. Ingresa los datos del estudiante.
 3. El sistema confirma el registro exitoso.
 4. Este proceso se repite para dos estudiantes adicionales.
+
 <br><img src="./capturas/Imagen1.png" alt="ima1" width="300" /><br>
-gg
+
+Caso de uso 2: Mostrar estudiantes
+Actor: Usuario
+Objetivo: Visualizar la lista completa de estudiantes registrados.
+
+Flujo de acciones:
+1. El usuario selecciona la opción 2 (Mostrar estudiantes).
+2. El sistema muestra la lista de estudiantes con sus respectivos datos.
+
 <br><img src="./capturas/Imagen2.png" alt="ima2" width="300" /><br>
 dd
 <br><img src="./capturas/Imagen3.png" alt="ima3" width="300" /><br>
