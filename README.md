@@ -30,8 +30,8 @@ Requisitos Previos:
 > java SistemaRegistroEsrtudiante
 
 ### Capturas de Pantalla del Programa en Funcionamiento
-<br>
-<img scr="capturas/Imagen1.png"/>
+
+<br><img src="./capturas/Imagen1.png" alt="Agregar un 2(1) y 3(2)" width="300" /><br>
 <br>
 <img scr="capturas/Imagen2.png"/>
 <br>
