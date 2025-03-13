@@ -31,11 +31,11 @@ Requisitos Previos:
 
 ### Capturas de Pantalla del Programa en Funcionamiento
 <br>
-<img scr="Imagen1.png" width="20">
+<img scr="capturas/Imagen1.png" width="20">
 <br>
-<img scr="Imagen2.png">
+<img scr="capturas/Imagen2.png">
 <br>
-<img scr="Imagen1.png">
+<img scr="capturas/Imagen1.png">
 
 ### Enlace del Repositorio en GitHub
 https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
