@@ -3,6 +3,15 @@
 
 Este proyecto es un sistema de registro de estudiantes desarrollado en Java. Permite gestionar una lista de estudiantes utilizando estructuras de control básicas y la clase Scanner para la entrada de datos. Además, se integra con GitHub para el control de versiones y la colaboración en equipo.
 
+### Implementación del Proyecto
+El proyecto "Sistema de Registro de Estudiantes en Java" se desarrolló utilizando el lenguaje de programación Java. Se implementó un programa basado en consola que permite gestionar una lista de estudiantes mediante opciones de menú. El desarrollo se realizó siguiendo estos pasos:
+
+1. Estructura del Código: Se definieron clases y métodos para manejar la información de los estudiantes.
+2. Entrada y Salida de Datos: Se utilizó la clase Scanner para recibir información del usuario.
+3. Gestión de Estudiantes: Se empleó una lista para almacenar los registros, permitiendo operaciones como agregar, buscar y eliminar estudiantes.
+4. Interfaz por Consola: Se creó un menú interactivo con switch-case para que el usuario pueda seleccionar las opciones disponibles.
+5. Control de Versiones: Se usó Git y GitHub para gestionar el código y permitir la colaboración en equipo.
+
 ### Funcionalidades:
 - Registrar nuevos estudiantes con su nombre, edad, matrícula y carrera.
 - Mostrar la lista de estudiantes registrados.
@@ -77,6 +86,14 @@ Objetivo: Finalizar el uso del sistema.
 Flujo de acciones:
 1. El usuario selecciona la opción 0 (Salir).
 2. El sistema finaliza con el mensaje: "Saliendo del sistema..."
+
+
+### Problemas encontrados
+Manejo de Entrada de Datos Incorrecta
+Problema: Si el usuario ingresaba un dato no válido (por ejemplo, letras en lugar de números), el programa generaba errores.
+Solución: Se implementó control de errores con try-catch y validaciones previas para asegurar que los datos sean correctos.
+
+Sin embargo, el proyecto se implementó con éxito, superando los desafíos mediante soluciones eficientes. La correcta estructuración del código, la validación de datos y la optimización de operaciones mejoraron la funcionalidad y usabilidad del sistema. Además, la integración con GitHub facilitó el trabajo colaborativo y el control de versiones.
 
 ### Enlace del Repositorio en GitHub
 https://github.com/Nnncyyy/SistemaRegistrosEstudiantes.git
